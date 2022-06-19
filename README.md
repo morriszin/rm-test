@@ -8,7 +8,7 @@ It is a simple App where it accept the login id of the Github user and the profi
 
 The API used was below:
 
-https://api.github.com/users/[replace-user-id-here]
+[https://api.github.com/users/{replace-user-id-here}](https://api.github.com/users)
 
 The design and testing method was inspired by watching pluralsight classes for learning react basic and react testing.
 
