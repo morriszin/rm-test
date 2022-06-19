@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a simple user search react app for code testing task. The initial test was to write an app to fetch the picture from flikr public feeds. But for some reason, the public feeds api was not working due to the cors errors so I use the github api call, instead.
 
-It is a simple App where it accept the login id of the Github user and it will populate the data provided by github API.
+It is a simple App where it accept the login id of the Github user and the profile was populated with the data provided by github API.
 
 The design and testing method was inspired by watching pluralsight classes for learning react basic and react testing.
 
