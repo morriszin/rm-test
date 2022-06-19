@@ -3,6 +3,6 @@ import App from './App';
 
 test('renders app without crushing', () => {
   render(<App />);
-  const linkElement = screen.getByText(/search photos/i);
+  const linkElement = screen.getByText(/user search/i);
   expect(linkElement).toBeInTheDocument();
 });
