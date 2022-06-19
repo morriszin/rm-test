@@ -36,6 +36,7 @@ function Search({ onShowProfile, onHideProfile }) {
           type="search"
           placeholder="Search.."
           aria-label="Search"
+          data-testid="search-input"
           value={searchStr}
           onChange={handleChange}
           onKeyUp={handleSubmit}

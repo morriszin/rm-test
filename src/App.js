@@ -20,7 +20,7 @@ function App() {
   }
 
   return (
-    <div className="container">
+    <div className="container" data-testid="app">
       <div className="row">
         <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-sm-12 col-xs-12">
           <div className="card card-height p-4 mt-4">
