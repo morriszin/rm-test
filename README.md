@@ -6,6 +6,10 @@ This is a simple user search react app for code testing task. The initial test w
 
 It is a simple App where it accept the login id of the Github user and the profile was populated with the data provided by github API.
 
+The API used was below:
+
+https://api.github.com/users/[replace-user-id-here]
+
 The design and testing method was inspired by watching pluralsight classes for learning react basic and react testing.
 
 ## Things that can be improved or TODO
