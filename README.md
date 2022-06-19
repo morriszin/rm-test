@@ -14,10 +14,12 @@ The design and testing method was inspired by watching pluralsight classes for l
 
 ## Things that can be improved or TODO
 
-- Extract the API call in spearate services
+- Extract the API call in spearate services (Maybe use rxjs)
 - Adding more Unit Test
 - Obviously needs some improvement on UI (currently use the bootstrap UI)
 - Add more than one profile
+- Loading indicator and No-profile placeholder
+- Add the comments in source code as Docs
 
 ## Available Scripts
 
