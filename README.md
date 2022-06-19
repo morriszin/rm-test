@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Simple User Search React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is a simple user search react app for code testing. The initial test was to write an app to fetch the picture from flikr public feeds. But for some reason, the public feeds api was not workign with cors so I use the github api call, instead.
+
+It is a simple App where it accept the login id of the Github user and it will populate the data provided by github API.
+
+The project is inspired by pluralsight class for learning react basic and react testing.
+
+## Things that can be improved or TODO
+
+- Extract the API call in spearate services
+- Adding more Unit Test
+- Obviously needs some improvement on UI (currently use the bootstrap UI)
+- Add more than one profile
 
 ## Available Scripts
 
